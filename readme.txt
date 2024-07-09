@@ -1,0 +1,1 @@
+To play the game you need to guess a number within the range of 1 - 20 to win!
